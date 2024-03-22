@@ -160,7 +160,7 @@ jobs:
         allowUpdates: true
         token: ${{ secrets.GH_TOKEN }}
         body: |
-          This is OpenWrt firmware for 裴讯N1(s905d)
+          This is OpenWrt firmware for Phicomm N1(s905d)
           * Firmware information
           Default IP: 192.168.31.2
           Default username: root
